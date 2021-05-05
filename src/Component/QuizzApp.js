@@ -11,7 +11,10 @@ class Questions extends Component {
         q : {
             0 : {"What is React ?" : {"Framework" : 0, "Libarary" : 1, "ProgrammingLanguage" : 0}}, 
             1 : {"What is Angular ?" : {"Framework" : 1, "Libarary" : 0, "ProgrammingLanguage" : 0}},
-            2 : {"How Trash is Kellout's Vision ?" : {"Very Trash" : 1, "Mildely Trash" : 0, "Not Trash" : 0}},
+            2 : {"Inside which HTML element do we put the JavaScript?" : {"<js>" : 0, "<javascript>" : 0, "<script>" : 1}},
+            3 : {"Where is the correct place to insert a JavaScript?" : {"The <head> section" : 1, "The <body> Section" : 0, "Both" : 0}},
+            4 : {"The external JavaScript file must contain the <script> tag." : {"False" : 1, "True" : 0}},
+            5 : {'How do you write "Hello World" in an alert box?' : {'alert("Hello World")' : 1, 'alertBox("Hello World")' : 0, 'msg("Hello World")' : 0}},
         },
         current_question: 0, 
         score : 0,
