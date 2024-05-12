@@ -1,6 +1,23 @@
-A Simple Responsive Quiz App coded with ReactJs with a heavy focus on styling, inspired from the following pen : https://codepen.io/enouwem-jim/pen/KKdewBV?editors=1100
+# Simple Responsive Quiz App
 
-Run ***npm install*** followed by ***npm start*** after cloning the repo as always.
+This Simple Responsive Quiz App is a React.js-based web application with a strong emphasis on stylish design and responsiveness. The design is inspired by a CodePen example which you can view [here](https://codepen.io/enouwem-jim/pen/KKdewBV?editors=1100). It provides an engaging user experience for conducting quizzes with various styling features.
+
+## Features
+
+- **Responsive Design**: Ensures that the quiz is accessible on devices of varying sizes from desktops to smartphones.
+- **Modern UI**: Aesthetic and user-friendly interface, inspired by the provided CodePen design, which enhances the overall user interaction.
+- **Dynamic Quiz Interaction**: Allows users to engage with different types of questions and instantly see correct or incorrect responses.
+
+## Getting Started
+
+These instructions will get your copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+- Node.js installed on your local system
+- Basic knowledge of React.js
 
 
-a Demo for the app hosted on Heroku:  https://selkquiz.herokuapp.com/
+
+For more, visit my LinkedIn profile: [Salim Elkellouti](https://www.linkedin.com/in/salim-elkellouti/).
+
