@@ -21,8 +21,7 @@ These instructions will get your copy of the project up and running on your loca
 
 1. **Clone the repository:**
    ```bash
-   git clone [repository-url]
-
+   git clone https://github.com/Selk-bit/Quizz.git
 
 For more, visit my LinkedIn profile: [Salim Elkellouti](https://www.linkedin.com/in/salim-elkellouti/).
 
