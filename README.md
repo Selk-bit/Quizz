@@ -17,11 +17,5 @@ These instructions will get your copy of the project up and running on your loca
 - Node.js installed on your local system
 - Basic knowledge of React.js
 
-### Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Selk-bit/Quizz.git
-
 For more, visit my LinkedIn profile: [Salim Elkellouti](https://www.linkedin.com/in/salim-elkellouti/).
 
